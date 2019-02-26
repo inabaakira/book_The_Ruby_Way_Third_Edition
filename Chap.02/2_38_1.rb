@@ -2,7 +2,7 @@
 #-*- mode: ruby; coding: utf-8 -*-
 # file: 2_38_1.rb
 #    Created:       <2019/02/25 17:02:09>
-#    Last Modified: <2019/02/26 12:19:47>
+#    Last Modified: <2019/02/26 16:18:35>
 
 class String
   def detab(ts = 8)
